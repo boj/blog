@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management on bojoism</title>
+    <link>https://blog.bojo.wtf/categories/management/</link>
+    <description>Recent content in management on bojoism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bojo.wtf/categories/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is Haskell a Bad Choice?</title>
+      <link>https://blog.bojo.wtf/2020/04/15/is-haskell-a-bad-choice/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/2020/04/15/is-haskell-a-bad-choice/</guid>
+      <description>Quick Note To save you some time I will give some reasons to immediately close this tab in your browser.
+ This post is about making a management decision to use Haskell This post is not about any technical accomplishments with Haskell This post does not actually conclude that Haskell is a bad choice  Otherwise, I hope what I have laid out below serves as a good view into a non-software company up in Alaska using Haskell to develop applications with.</description>
+    </item>
+    
+    <item>
+      <title>Origin Story</title>
+      <link>https://blog.bojo.wtf/2020/04/05/origin-story/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/2020/04/05/origin-story/</guid>
+      <description>Intent My goal is to use this specific blog post to serve as both a starting point, and something I can refer to which describes the last three years of my career. Hopefully providing the reader with some context as to various decisions, cultural settings, and hurdles which helped define choices I have made and will make from here on out as I continue to add more content here.
+As to why I have started a new blog in particular, I&amp;rsquo;ve been trying to come to terms with completely changing roles from an Individual Contributor (IC) to a Software Engineering Manager over these last few years.</description>
+    </item>
+    
+  </channel>
+</rss>

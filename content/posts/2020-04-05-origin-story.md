@@ -1,9 +1,14 @@
 ---
-layout: post
-title:  "Origin Story"
-date:   2020-04-05
-categories: management
+categories:
+  - management
+date: 2020-04-05
+title: Origin Story
+url: /2020/04/05/origin-story/
+aliases: [
+    "/management/2020/04/05/origin-story.html"
+]
 ---
+
 
 # Intent
 

@@ -1,0 +1,19 @@
+baseURL = "https://blog.bojo.wtf/"
+languageCode = "en-us"
+title = "bojoism"
+theme = "ezhil"
+copyright = "© Brian Jones"
+paginate = 3
+
+[params]
+subtitle = "Thoughts on managing software engineering teams and technology"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/boj"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/mojobojo"

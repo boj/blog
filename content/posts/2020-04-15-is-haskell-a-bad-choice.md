@@ -1,9 +1,14 @@
 ---
-layout: post
-title:  "Is Haskell a Bad Choice?"
-date:   2020-04-15
-categories: management
+categories:
+  - management
+date: 2020-04-15
+title: Is Haskell a Bad Choice?
+url: /2020/04/15/is-haskell-a-bad-choice/
+aliases: [
+    "/management/2020/04/15/is-haskell-a-bad-choice.html"
+]
 ---
+
 
 # Quick Note
 
