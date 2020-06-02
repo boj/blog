@@ -11,6 +11,10 @@ slogan = "thoughts on managing software engineering teams"
 showCategories = true
 showTags = true
 
+[[params.nav.custom]]
+title = "About"
+url = "/pages/about"
+
 [params.profile]
 enable = true
 github = "https://github.com/boj"
