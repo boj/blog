@@ -17,5 +17,5 @@ url = "/pages/about"
 
 [params.profile]
 enable = true
-github = "https://github.com/boj"
-twitter = "https://twitter.com/mojobojo"
+github = "boj"
+twitter = "mojobojo"
