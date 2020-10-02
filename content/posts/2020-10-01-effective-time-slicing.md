@@ -47,7 +47,7 @@ This achieves a few goals:
 
 ## Taking it Further {#taking-it-further}
 
-One day one I asked my boss to treat my team as a pipeline. We're not a single product software shop, instead we are closer to a consultancy with which the bulk of the work is for two internal customers from different companies. This means we have a large amount of new projects coming in, older projects to support and maintain, and even older projects to sunset and kill off. There is no sane way to keep up with that work without designing a capacity level around your team(s).
+On day one I asked my boss to treat my team as a pipeline. We're not a single product software shop, instead we are closer to a consultancy with which the bulk of the work is for two internal customers from different companies. This means we have a large amount of new projects coming in, older projects to support and maintain, and even older projects to sunset and kill off. There is no sane way to keep up with that work without designing a capacity level around your team(s).
 
 What I have done here is two-fold:
 
