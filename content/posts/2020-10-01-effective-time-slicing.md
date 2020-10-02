@@ -51,7 +51,7 @@ On day one I asked my boss to treat my team as a pipeline. We're not a single pr
 
 What I have done here is two-fold:
 
--   The entire department has a capacity value of 100%, which if tracked properly in a rubric of people/project percentages
+-   The entire department has a capacity value of 100%, which is tracked properly in a rubric of people/project percentages
     -   This allows me to say the magic word "No" when we are at absolute capacity
 -   At the _individual_ level I have assigned only 90% capacity to each person
 
