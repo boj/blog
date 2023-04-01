@@ -10,3 +10,15 @@
 [submodule "themes/fuji"]
 	path = themes/fuji
 	url = https://github.com/dsrkafuu/hugo-theme-fuji.git
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/HugoTeX"]
+	path = themes/HugoTeX
+	url = https://github.com/kaisugi/HugoTeX
+[submodule "themes/monochrome"]
+	path = themes/monochrome
+	url = https://github.com/kaiiiz/hugo-theme-monochrome.git
