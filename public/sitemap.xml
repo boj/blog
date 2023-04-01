@@ -1,39 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.bojo.wtf/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.bojo.wtf/categories/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.bojo.wtf/2020/04/15/is-haskell-a-bad-choice/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.bojo.wtf/categories/management/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/2020/06/04/efficient-note-taking/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/tags/management/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/tags/notes/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/categories/posts/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.bojo.wtf/posts/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.bojo.wtf/2020/04/05/origin-story/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.bojo.wtf/tags/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/2020/04/05/from-ic-to-em/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/tags/leadership/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bojo.wtf/pages/about/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2015-08-30-armored-bits-war-machines/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2015-09-27-choosing-a-backend-language/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-08-16-doing-indie-game-dev-wrong/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2015-12-30-happy-data-types-and-polymorphism/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-12-09-haskell-bake-and-kubernetes/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2015-12-26-haskell-game-server-part-1/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2015-12-28-haskell-game-server-part-1-followup/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-01-01-haskell-game-server-part-2/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-08-17-massive-virtual-world-simulations/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/pages/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-11-19-unreal-engine-roguelike/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-08-16-what-can-you-do-in-armored-bits-anyways/</loc>
+  </url><url>
+    <loc>https://blog.bojo.wtf/posts/2016-03-31-yaml-aeson-lenses/</loc>
   </url>
-  
 </urlset>

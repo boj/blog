@@ -6,29 +6,144 @@
     <description>Recent content in Posts on bojoism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.bojo.wtf/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.bojo.wtf/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Is Haskell a Bad Choice?</title>
-      <link>https://blog.bojo.wtf/2020/04/15/is-haskell-a-bad-choice/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Efficient Note Taking</title>
+      <link>https://blog.bojo.wtf/2020/06/04/efficient-note-taking/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.bojo.wtf/2020/04/15/is-haskell-a-bad-choice/</guid>
-      <description>Quick Note To save you some time I will give some reasons to immediately close this tab in your browser.
- This post is about making a management decision to use Haskell This post is not about any technical accomplishments with Haskell This post does not actually conclude that Haskell is a bad choice  Otherwise, I hope what I have laid out below serves as a good view into a non-software company up in Alaska using Haskell to develop applications with.</description>
+      <guid>https://blog.bojo.wtf/2020/06/04/efficient-note-taking/</guid>
+      <description>Efficient Note Taking As my company starts belatedly revamping our corporate structure a lot of things have been changing, including my personal spiral towards a manager schedule vs a maker schedule lately. One thing I have noticed as I track more and more disparate things is that if I don&amp;rsquo;t start taking better notes now I&amp;rsquo;m going to fall behind and drown in forgotten caveats sooner than later. The less effective I am at tracking what I need to do (outside of task based work), or need to know across a breadth of projects, people, and responsibilities, the less effective I am going to be at supporting my team.</description>
     </item>
     
     <item>
-      <title>Origin Story</title>
-      <link>https://blog.bojo.wtf/2020/04/05/origin-story/</link>
+      <title>From IC to EM</title>
+      <link>https://blog.bojo.wtf/2020/04/05/from-ic-to-em/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.bojo.wtf/2020/04/05/origin-story/</guid>
+      <guid>https://blog.bojo.wtf/2020/04/05/from-ic-to-em/</guid>
       <description>Intent My goal is to use this specific blog post to serve as both a starting point, and something I can refer to which describes the last three years of my career. Hopefully providing the reader with some context as to various decisions, cultural settings, and hurdles which helped define choices I have made and will make from here on out as I continue to add more content here.
 As to why I have started a new blog in particular, I&amp;rsquo;ve been trying to come to terms with completely changing roles from an Individual Contributor (IC) to a Software Engineering Manager over these last few years.</description>
+    </item>
+    
+    <item>
+      <title>Armored Bits - War Machines</title>
+      <link>https://blog.bojo.wtf/posts/2015-08-30-armored-bits-war-machines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2015-08-30-armored-bits-war-machines/</guid>
+      <description>Game AI Programming Simulator In A.I. Apocalypse, book 2 of the Singularity series by William Hertling, the following phrases briefly describe a game played inside the novel:
+“Two years later the Mech War gaming platform was introduced just prior to the Christmas season. It became the must-have game. The old standby worlds went vacant, their online environments quickly becoming ghost towns. Mech War became not just the best massively multiplayer online game, it quickly became the only game left standing.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Backend Language</title>
+      <link>https://blog.bojo.wtf/posts/2015-09-27-choosing-a-backend-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2015-09-27-choosing-a-backend-language/</guid>
+      <description>Picking a language to write your game/system/service in shouldn’t really be a hard choice, yet as developers we tend to get hung up on which technology we want to use. After all, you will be stuck with your choice once steam picks up, and for a myriad of reasons (usually business) switching stacks becomes incredibly hard the further along you are.
+Since we are building a realtime game server (in the First Person Shooter sense), we had a small list of criteria.</description>
+    </item>
+    
+    <item>
+      <title>Doing Indie Game Dev Wrong</title>
+      <link>https://blog.bojo.wtf/posts/2016-08-16-doing-indie-game-dev-wrong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-08-16-doing-indie-game-dev-wrong/</guid>
+      <description>Ok, admittedly the title is a bit misleading, but hear me out. We absolutely love what we are doing and are having a blast. However, if you truly want to be a successful indie game dev you probably shouldn&amp;rsquo;t do 99% of the things that we are doing.
+The goal of this post is to describe the challenges we face while making an incredibly non-traditional game, as well as give a feel for all the parts and pieces which are involved with our vision of the still far off release of Armored Bits.</description>
+    </item>
+    
+    <item>
+      <title>Happy Data Types &amp; Polymorphism</title>
+      <link>https://blog.bojo.wtf/posts/2015-12-30-happy-data-types-and-polymorphism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2015-12-30-happy-data-types-and-polymorphism/</guid>
+      <description>I am ridiculously proud of this little bit of code:
+data Range a = Range a a between :: (Num a, Eq a, Ord a) =&amp;gt; a -&amp;gt; Range a -&amp;gt; Bool between a (Range b c) = a &amp;gt; b &amp;amp;&amp;amp; a &amp;lt; c betweenl :: (Num a, Eq a, Ord a) =&amp;gt; a -&amp;gt; Range a -&amp;gt; Bool betweenl a (Range b c) = a &amp;gt;= b &amp;amp;&amp;amp; a &amp;lt; c betweenr :: (Num a, Eq a, Ord a) =&amp;gt; a -&amp;gt; Range a -&amp;gt; Bool betweenr a (Range b c) = a &amp;gt; b &amp;amp;&amp;amp; a &amp;lt;= c betweenBoth :: (Num a, Eq a, Ord a) =&amp;gt; a -&amp;gt; Range a -&amp;gt; Bool betweenBoth a (Range b c) = a &amp;gt;= b &amp;amp;&amp;amp; a &amp;lt;= c Results in:</description>
+    </item>
+    
+    <item>
+      <title>Haskell Bake and Kubernetes</title>
+      <link>https://blog.bojo.wtf/posts/2016-12-09-haskell-bake-and-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-12-09-haskell-bake-and-kubernetes/</guid>
+      <description>Background I work at a relatively large 150 employee Japanese social game company as the Lead Infrastructure Engineer on one of their various game projects. My primary duties include building server infrastructure, automating all the things, helping the server programming team out so they can focus on their jobs and not worry about the rest, and handling things if it all goes south. (DevOps, SRE, etc.)
+Discussion We have a small Kubernetes cluster which I run in order for the client team to be able to test their changes against the stable staging server build and the ever changing development build.</description>
+    </item>
+    
+    <item>
+      <title>Haskell Game Server - Part 1</title>
+      <link>https://blog.bojo.wtf/posts/2015-12-26-haskell-game-server-part-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2015-12-26-haskell-game-server-part-1/</guid>
+      <description>This post describes the project Armored Bits which myself and my buddy cerbermus have been working on for over half a year in our spare time. The goal is to build a realtime, network team based, player programmable 3d mech simulator. As the title suggests the core game server is being written in Haskell, a choice I made after having been inspired by a QuakeCon talk with John Carmack, the linked video a part of that talk specifically about functional programming and games.</description>
+    </item>
+    
+    <item>
+      <title>Haskell Game Server - Part 1 Followup</title>
+      <link>https://blog.bojo.wtf/posts/2015-12-28-haskell-game-server-part-1-followup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2015-12-28-haskell-game-server-part-1-followup/</guid>
+      <description>Before I get started, I&amp;rsquo;ve changed the color scheme of this blog after a few comments about the previous colors I was using. Sorry for offending everyone&amp;rsquo;s eyes! Hopefully the current palette is easier to read.
+Anyways, this is a quick followup to my previous post Haskell Game Server - Part 1 which covers a few changes I made after some great feedback, and grievous debugging of a crazy issue.</description>
+    </item>
+    
+    <item>
+      <title>Haskell Game Server - Part 2</title>
+      <link>https://blog.bojo.wtf/posts/2016-01-01-haskell-game-server-part-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-01-01-haskell-game-server-part-2/</guid>
+      <description>Previous Posts Part 1 - Networking &amp;amp; Message Protocols Part 1 Followup - A brief followup to my original post. Topics In today&amp;rsquo;s post I will cover which messages we shuffle between the server and clients and their purpose, how the game world is fundamentally managed, and how we use an Actor class to help manage scene objects.
+Messages Between Server &amp;amp; Clients We&amp;rsquo;ve built our game so that the server only sends data the player AI has strictly requested, with a few minor exceptions such as game state changes.</description>
+    </item>
+    
+    <item>
+      <title>Massive Virtual World Simulations</title>
+      <link>https://blog.bojo.wtf/posts/2016-08-17-massive-virtual-world-simulations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-08-17-massive-virtual-world-simulations/</guid>
+      <description>Well, it seems some German folk, specifically vektorweg and focx, have convinced me to write a blog post about some random topic I puked out over Twitter earlier this evening. The following is some convoluted and potentially incoherent rehashing of an idea I&amp;rsquo;ve been stewing on for over a decade.
+Background Before I dive into what the actual premise of this post is I&amp;rsquo;d like to provide a little background about my mindset.</description>
+    </item>
+    
+    <item>
+      <title>Unreal Engine 4 - Roguelike</title>
+      <link>https://blog.bojo.wtf/posts/2016-11-19-unreal-engine-roguelike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-11-19-unreal-engine-roguelike/</guid>
+      <description>I&amp;rsquo;ve been working on Armored Bits for about a year and half now and it&amp;rsquo;s coming along quite well. After this latest server refactor the game should be programmable (playable) before the year is out. My Haskell programming skills have skyrocketed, and all is well with the world. Still, eating vanilla ice cream and never mixing it up with strawberry or chocolate on occasion can get a bit dull.
+With that in mind, I&amp;rsquo;ve started a small side project in an attempt to fulfill two goals.</description>
+    </item>
+    
+    <item>
+      <title>What can you do in Armored Bits anyways?</title>
+      <link>https://blog.bojo.wtf/posts/2016-08-16-what-can-you-do-in-armored-bits-anyways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-08-16-what-can-you-do-in-armored-bits-anyways/</guid>
+      <description>Two blogs posts in one day? Crazy. I suppose there&amp;rsquo;s actually a bit to talk about now that a large chunk of AB&amp;rsquo;s development is behind us.
+This one is a brief overview of mech components and basic AI and server interactions.
+What is a mech composed of? We plan on writing some detailed documentation about this at some point, but for now I&amp;rsquo;ll provide a high level overview of what the components of a mech are and their basic interactions.</description>
+    </item>
+    
+    <item>
+      <title>YAML &#43; Aeson Lenses</title>
+      <link>https://blog.bojo.wtf/posts/2016-03-31-yaml-aeson-lenses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/posts/2016-03-31-yaml-aeson-lenses/</guid>
+      <description>Update: A Warning As pointed out by /u/tdammers:
+&amp;ldquo;Note that this isn&amp;rsquo;t a win-win; you&amp;rsquo;re sacrificing some type safety for convenience. One particular advantage of the typed approach is that the only bit of configuration-related code that can possibly fail is the part that parses the YAML file into your typed data structures; any mistakes you make elsewhere will amount to compiler errors. By contrast, the &amp;ldquo;dynamic&amp;rdquo; approach defers all schema errors to run time, so if your YAML file happens to not match the expectations of your code, you won&amp;rsquo;t find out until that code actually runs.</description>
     </item>
     
   </channel>

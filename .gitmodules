@@ -4,3 +4,9 @@
 [submodule "themes/notepadium"]
 	path = themes/notepadium
 	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "themes/flat"]
+	path = themes/flat
+	url = https://github.com/leafee98/hugo-theme-flat.git
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/dsrkafuu/hugo-theme-fuji.git

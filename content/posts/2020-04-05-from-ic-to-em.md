@@ -1,11 +1,11 @@
 +++
-title = "Origin Story"
+title = "From IC to EM"
 author = ["Brian Jones"]
 date = 2020-04-05
-aliases = ["/management/2020/04/05/origin-story.html"]
+aliases = ["/management/2020/04/05/from-ic-to-em.html"]
 tags = ["management", "leadership"]
 categories = ["posts"]
-url = "/2020/04/05/origin-story/"
+url = "/2020/04/05/from-ic-to-em/"
 draft = false
 +++
 
@@ -19,7 +19,7 @@ A few resources which have helped me along the way that are worth mentioning up 
 
 -   A large collection of engineering management resources on [GitHub](https://github.com/charlax/engineering-management)
     -   Of which "Turn the Ship Around!", a book by David Marquet was immensely helpful
--   An engineering manager focused blog by [Will Larson](https://lethain.com/i) which I came across recently and is exactly the type of content I have been trying to discover for years now
+-   An engineering manager focused blog by [Will Larson](https://lethain.com/) which I came across recently and is exactly the type of content I have been trying to discover for years now
 -   The support and blessing of my CTO to run my team as I see fit with absolutely no micro-management from him
 
 

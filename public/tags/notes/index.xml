@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on bojoism</title>
+    <link>https://blog.bojo.wtf/tags/notes/</link>
+    <description>Recent content in notes on bojoism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.bojo.wtf/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficient Note Taking</title>
+      <link>https://blog.bojo.wtf/2020/06/04/efficient-note-taking/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bojo.wtf/2020/06/04/efficient-note-taking/</guid>
+      <description>Efficient Note Taking As my company starts belatedly revamping our corporate structure a lot of things have been changing, including my personal spiral towards a manager schedule vs a maker schedule lately. One thing I have noticed as I track more and more disparate things is that if I don&amp;rsquo;t start taking better notes now I&amp;rsquo;m going to fall behind and drown in forgotten caveats sooner than later. The less effective I am at tracking what I need to do (outside of task based work), or need to know across a breadth of projects, people, and responsibilities, the less effective I am going to be at supporting my team.</description>
+    </item>
+    
+  </channel>
+</rss>
